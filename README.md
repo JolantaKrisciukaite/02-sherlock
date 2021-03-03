@@ -8,7 +8,7 @@
 
 # Serlokas
 
-_25 group website project_
+_25 group website project NR. 1_
 
 This project was carried out together with a lecturer at the Baltic Institute of Technology 📝
 
